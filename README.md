@@ -45,6 +45,7 @@ local_database = {
 }
 ```
 - Make sure you create a local postgres database called `one-table-local` (or whichever local database name you want to use)
+- Docker postgres ```docker run -p 5432:5432 --name one-table-local -e POSTGRES_PASSWORD=postgres -e POSTGRES_DB=one-table-local -e POSTGRES_USER=postgres -d postgres```
 - Run ```python3 manage.py makemigrations``` to create database migrations
 - Run ```python3 manage.py migrate``` to create database tables / initial setup
 - Run ```python3 manage.py createsuperuser``` to create an admin user

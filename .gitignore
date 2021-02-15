@@ -13,8 +13,9 @@
 /media/
 .env
 .vscode
+.idea
 
 # local DB credentials
-/core/settings/config.py
+#/core/settings/config.py
 
 # migration file and pycache files
