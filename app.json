@@ -1,0 +1,7 @@
+{
+  "name": "Django OneTable",
+  "description": "A Simple Django app",
+  "repository": "https://github.com/presola/onetable",
+  "logo": "https://django-sample.herokuapp.com/django.png",
+  "keywords": ["python3", "graphql", "django"]
+}
