@@ -146,6 +146,10 @@ No problem! You can use OneTable through the deployed instance we provide at www
 
 Fantastic! Please reach out if you would like and we can relay at least a decade worth of terrible business ideas that will help you avoid some common landmines. We hope OneTable can be a foundation for you to launch consulting companies with clients in your local communities, or of course, by white labeling the platform through a Software as a Service model. The more businesses the better! 
 
+
+#### Deploy on Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/presola/onetable)
+
 ## OneTable Key Contacts
 
 - **Matt Capelli**: Founder | Mostly focused on the project roadmap and designs. Occasionally tries to hack together python code | Username: _**@mattcapelli**_
